@@ -1,0 +1,14 @@
+# Dossier de Visual Studio
+.vs/
+
+# Fichiers utilisateur
+*.user
+*.suo
+
+# Dossiers de compilation
+bin/
+obj/
+
+# Fichiers de log ou cache
+*.log
+*.cache
